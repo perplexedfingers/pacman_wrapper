@@ -16,14 +16,14 @@ Command `help` in `pkg` would be implemented when things are mostly done.
 
 Parameters that I do not know how to translate from `pkg` to `pacman`:
 
-    - `annotate`
-      `backup`
-      `register`
-      `repo`
-      `rquery`
-      `query`
-      `set`
-      `updating`
+- `annotate`
+- `backup`
+- `register`
+- `repo`
+- `rquery`
+- `query`
+- `set`
+- `updating`
 
 Todo list
 =========
